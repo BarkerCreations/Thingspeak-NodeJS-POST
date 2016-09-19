@@ -1,0 +1,23 @@
+{
+  "name": "thingspeak-nodejs-post",
+  "version": "1.0.0",
+  "description": "Simple post requests from Node to thingspeak",
+  "main": "thingspeak.js",
+  "scripts": {
+    "test": "node thingspeak.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarkerCreations/Thingspeak-NodeJS-POST.git"
+  },
+  "keywords": [
+    "node",
+    "thingspeak"
+  ],
+  "author": "@Chris_Barker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BarkerCreations/Thingspeak-NodeJS-POST/issues"
+  },
+  "homepage": "https://github.com/BarkerCreations/Thingspeak-NodeJS-POST#readme"
+}

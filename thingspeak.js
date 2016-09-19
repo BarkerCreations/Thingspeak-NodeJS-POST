@@ -1,4 +1,3 @@
-var serialport = require('serialport');
 var request = require('request');
 
 var API_KEY = 'MYAPIKEYXXXXYYY'; // ThingSpeak 'write' API key
