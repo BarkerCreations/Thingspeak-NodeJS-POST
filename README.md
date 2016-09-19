@@ -2,7 +2,8 @@
 1. Create a https://thingspeak.com account
 2. Create a feed
 3. Replace your api key in thingspeak.js
-4. Play!
+4. Run ```bash npm install``` inside the directory where thingspeak.js lives to install any dependencies 
+5. Play!
 
 You can test your ThingSpeak API key and channel combination by opening a terminal application and doing 
 
