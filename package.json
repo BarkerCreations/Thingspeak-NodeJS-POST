@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/BarkerCreations/Thingspeak-NodeJS-POST/issues"
   },
-  "homepage": "https://github.com/BarkerCreations/Thingspeak-NodeJS-POST#readme"
+  "homepage": "https://github.com/BarkerCreations/Thingspeak-NodeJS-POST#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
 }
